@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-08T00:40:08 IST" name="Default suite" finished-at="2024-10-08T00:40:18 IST" duration-ms="10292">
+    <groups>
+    </groups>
+    <test started-at="2024-10-08T00:40:08 IST" name="Default test" finished-at="2024-10-08T00:40:18 IST" duration-ms="10292">
+      <class name="Amazon.India.Amazon_Home">
+        <test-method is-config="true" signature="browserInit()[pri:0, instance:Amazon.India.Amazon_Home@3590fc5b]" started-at="2024-10-08T00:40:08 IST" name="browserInit" finished-at="2024-10-08T00:40:17 IST" duration-ms="9417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInit -->
+        <test-method signature="verifyMenu()[pri:0, instance:Amazon.India.Amazon_Home@3590fc5b]" started-at="2024-10-08T00:40:17 IST" name="verifyMenu" finished-at="2024-10-08T00:40:18 IST" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMenu -->
+      </class> <!-- Amazon.India.Amazon_Home -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
